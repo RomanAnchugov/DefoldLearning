@@ -14,7 +14,7 @@ key_trigger {
   input: KEY_RIGHT
   action: "right"
 }
-mouse_trigger {
-  input: MOUSE_BUTTON_1
-  action: "click"
+key_trigger {
+  input: KEY_SPACE
+  action: "fire"
 }
