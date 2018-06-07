@@ -1,17 +1,13 @@
 [bootstrap]
 main_collection = /main/main.collectionc
 
+[script]
+shared_state = 1
+
 [project]
-title = Colorslide tutorial
+title = Empty project
 
 [display]
-width = 640
-height = 1136
-high_dpi = 1
-
-[sprite]
-max_count = 512
-
-[physics]
-debug = 1
+width = 768
+height = 768
 
